@@ -1,4 +1,4 @@
-# Steel-Energy-Consumption-Model
+# Steel Energy Consumption Model
 ## Project Summary
 This project tests versions of the stacked LSTM model to determine proficiency in predicting future energy consumption trends by adjusting model framework and hyperparameters. A stacked LSTM model with three LSTM layers and one dense layer is used as a baseline. Model is compiled with standard gradient descent optimizer, and loss function is mean squared error.
 ### Tests:
